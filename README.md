@@ -1,1 +1,1 @@
-<h1>Odin Recipe - Example Site</h1>
+<h1>Odin Recipe - Practice Site</h1>
